@@ -1,0 +1,39 @@
+﻿.matbao-dropdown-alignLeft{
+    text-align:left;
+}
+
+.them-icon-image {
+    width:50px;
+    height:50px;
+}
+
+.them-title-service-short {
+    vertical-align: middle;
+    line-height: 51px;
+}
+
+.them-title-service-long {
+    vertical-align: middle;
+    line-height: 30px;
+}
+
+.them-domain-color {
+    color: #009900;
+}
+
+@media only screen and (max-width: 768px) {
+    .dropdown-service-name > strong {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 165px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .domain-price-combo {
+        vertical-align: middle;
+        display: block;
+        padding: 22px 0;
+    }
+}

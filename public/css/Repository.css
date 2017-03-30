@@ -1,0 +1,249 @@
+﻿.link-tab-service span {
+    display: inline-block;
+    hyphens: auto;
+    overflow-wrap: break-word;
+    word-break: break-all;
+}
+
+.popuptuvankhuyenmai {
+    margin-top: 52px;
+}
+
+@media (max-width: 767px) {
+
+    .top-mobile {
+        padding-top: 5px !important;
+    }
+
+        .top-mobile .title {
+            font-size: 24px !important;
+            margin-bottom: 25px;
+        }
+
+    .ssl.top-mobile .title {
+        margin-bottom: 0;
+    }
+
+    .top-mobile .subtitle, .top-mobile .description {
+        margin-bottom: 10px !important;
+        font-size: 16px !important;
+    }
+
+    .pricebox-mobile .titlebox {
+        line-height: 60px !important;
+        height: auto !important;
+    }
+
+    .pricebox-mobile .pricebox-content {
+        padding-top: 5px !important;
+    }
+
+    .pricebox-mobile .descarea {
+        margin-top: 0 !important;
+        padding-top: 7px !important;
+        margin-bottom: 0px !important;
+        padding-bottom: 0px !important;
+    }
+
+    .pricebox-mobile ul li {
+        height: 40px !important;
+    }
+
+    .pricebox-mobile .ul-chiet-khau .btn-group-vertical div:last-child {
+        height: 40px !important;
+        line-height: 43px !important;
+    }
+
+    .pricebox-mobile .panel-heading {
+        min-height: 60px !important;
+    }
+
+        .pricebox-mobile .panel-heading h3 {
+            line-height: 60px !important;
+            margin-top: 0 !important;
+            margin-bottom: 0 !important;
+        }
+
+    .pricebox-mobile .descarea .font-weight300:last-child {
+        margin-bottom: 0;
+    }
+
+    .pricebox-mobile hr {
+        margin-top: 5px !important;
+        margin-bottom: 12px !important;
+    }
+
+    .pricebox-mobile .pricebox-content {
+        padding-bottom: 10px;
+    }
+
+    .pricebox-mobile .panel-heading h3.two-line {
+        line-height: 30px !important;
+        padding-top: 7px !important;
+        padding-bottom: 7px !important;
+    }
+
+    .pricebox-mobile .panel-body.info {
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+        padding-top: 4px;
+    }
+
+    .pricebox-mobile .panel-body:last-child {
+           padding-top: 0px !important;
+    padding-bottom: 15px !important;
+    }
+
+    .pricebox-mobile .price .unit {
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+    }
+
+    .email-pro .top-mobile {
+        margin-bottom: 15px !important;
+        margin-top: 0 !important;
+    }
+
+    .top-mobile .email-title {
+        font-size: 24px !important;
+    }
+
+    .top-mobile .email-description {
+        font-size: 16px !important;
+    }
+
+    .hot-sale {
+        display: none;
+    }
+
+    .dich-vu-quan-tri .pricebox-mobile .titlebox {
+        padding-top: 10px !important;
+        height: auto !important;
+        padding-bottom: 5px !important;
+        line-height: 30px !important;
+    }
+
+    .domain-row .domain-button {
+        /*bottom: -17px;
+        right: 12px;*/
+    }
+
+    .pricebox-mobile .pricevalue {
+        display: inline-block;
+    }
+
+    .pricebox-mobile .priceunit {
+        display: inline-block;
+    }
+
+    .pricebox-mobile .unit {
+        display: inline-block;
+    }
+
+    .register-more-service .panel-default .panel-heading, .register-cloudserver .panel-heading {
+        padding: 0 5px 0 0;
+    }
+
+    .lading-page .wrap-combo {
+        padding: 15px 0 10px;
+        margin-bottom: 10px;
+    }
+
+    .wrap-detail-result-whois .checkdomain {
+        position: relative;
+    }
+
+    .whoIsTenMienPartial .whois-domain.gray {
+        margin-top: 15px;
+        position: absolute;
+        right: 47px;
+        top: -26px;
+    }
+
+    .result-domain-khac .whois-domain.gray {
+        margin-top: 15px;
+        position: absolute;
+        right: 47px;
+        top: -67px;
+    }
+
+    .email-include {
+        margin-bottom: 0;
+    }
+
+        .email-include .row-head {
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+    .box-chon-tenmien .title-box {
+        position: relative;
+    }
+
+    .box-chon-tenmien label {
+        top: -14px !important;
+    }
+
+    .email-include li, .wordpress-hosting-include li {
+        height: auto !important;
+    }
+
+    .email-pro-thumbnail.email-common {
+        padding-left: 15px;
+        margin-right: 0;
+    }
+
+    .qtip {
+        max-width: 200px;
+    }
+
+    #logo-mobile {
+        position: absolute;
+    }
+
+
+    .cloud-server-top .ul-chiet-khau .btn-group-vertical div:last-child {
+        width: 201px !important;
+    }
+    .email .panel-default .price
+    {
+        padding-bottom:0px;
+    }
+    .ssl .panel-default .price
+    {
+        padding-bottom:0px;
+    }
+    .chon-tenmien-dichvu .title
+    {
+        font-size: 28px;
+    }
+    .chon-tenmien-dichvu .box-chon-tenmien .item-chon-tenmien .title-box label
+    {
+        padding-left:36px;
+    }
+
+    .list-ten-mien-de-xuat .result-whois {
+        position: relative !important;
+    }
+
+        .list-ten-mien-de-xuat .result-whois .pull-right.checkdomain {
+            position: absolute !important;
+            right: -8px !important;
+            top: -52px !important;
+        }
+}
+
+
+@media (max-width: 480px) {
+}
+
+@media screen and (max-width:320px) {
+    .link-tab-service span {
+        font-size: 16px;
+    }
+
+    .link-tab-service {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}

@@ -1,0 +1,35 @@
+﻿#menu{
+    position:relative;
+    width:100%;
+    height:80px;
+    font-family:sans-serif;
+}
+
+.menu .container{
+    position:relative;
+}
+
+.menu .container .submenu{
+    max-width:90%;
+    position:absolute;
+    top:36px;
+    padding-bottom:10px;
+    display:none;
+    background-color:#fff;
+    z-index:100;
+    border:1px solid #c2c2c2;
+}
+.menu .container .submenu.showmenu{
+    display:block;
+}
+.submenu.showmenu:hover{
+    color:#000;
+}
+.showmenu>ul>li{
+    margin-bottom:0;
+}
+.showmenu>ul>li>a{
+    text-transform:none;
+    padding:3px 15px;
+    line-height:16px;
+}

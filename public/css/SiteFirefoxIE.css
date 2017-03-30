@@ -1,0 +1,106 @@
+﻿.fa-2x{
+    font-size: inherit;
+}
+
+.main-checkdomain .input-group-lg > .matbao-textbox::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #c9c9c9;
+}
+.main-checkdomain .input-group-lg > .matbao-textbox::-moz-placeholder { /* Firefox 19+ */
+  color: #c9c9c9;
+}
+.main-checkdomain .input-group-lg > .matbao-textbox:-ms-input-placeholder { /* IE 10+ */
+  color: #c9c9c9;
+}
+.main-checkdomain .input-group-lg > .matbao-textbox:-moz-placeholder { /* Firefox 18- */
+  color: #c9c9c9;
+}
+
+.matbao-radio::after {
+    line-height: 25px;
+    width: 100%;
+}
+
+    .matbao-radio label::after,
+    .matbao-radio label:active::after,
+    .matbao-radio label.active::after {
+        text-align: left;
+        outline: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+
+        .matbao-radio label.btn span::after {
+            font-size: 18px;
+            margin-left: 10px;
+        }
+
+        .matbao-radio label input[type="radio"] ~ i.fa.fa-circle-o::after {
+            content: url(../images/radian-butt-unchecked.png);
+            vertical-align: middle;
+            display: none;
+        }
+
+        .matbao-radio label input[type="radio"] ~ i.fa.fa-check-circle-o::after {
+            content: url(../images/radian-butt-unchecked.png);
+            vertical-align: middle;
+        }
+
+        .matbao-radio label input[type="radio"]:checked ~ i.fa.fa-circle-o::after {
+            content: url(../images/radian-butt-checked.png);
+            vertical-align: middle;
+            display: none;
+        }
+
+        .matbao-radio label input[type="radio"]:checked ~ i.fa.fa-check-circle-o::after {
+            content: url(../images/radian-butt-checked.png);
+            vertical-align: middle;
+            display: inline;
+        }
+
+
+.matbao-checkbox-mini {
+    line-height: 25px;
+    width: 100%;
+}
+
+    .matbao-checkbox-mini label,
+    .matbao-checkbox-mini label:active,
+    .matbao-checkbox-mini label.active {
+        text-align: left;
+        outline: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+
+        .matbao-checkbox-mini label.btn span {
+            font-size: 18px;
+            margin-left: 10px;
+        }
+
+        .matbao-checkbox-mini label input[type="checkbox"]{
+            display:none;
+        }
+
+    .matbao-checkbox-mini input[type="checkbox"] ~ i.fa.fa-circle-o::before {
+        content: url(../images/matbao-uncheck.png);
+        vertical-align: middle;
+        display: none;
+    }
+
+    .matbao-checkbox-mini label input[type="checkbox"] ~ i.fa.fa-check-circle-o::before {
+        content: url(../images/matbao-uncheck.png);
+        vertical-align: middle;
+        display: inline;
+    }
+
+    .matbao-checkbox-mini label input[type="checkbox"]:checked ~ i.fa.fa-circle-o::before {
+        content: url(../images/ico-checked-2.png);
+        vertical-align: middle;
+        display: none;
+    }
+
+    .matbao-checkbox-mini label input[type="checkbox"]:checked ~ i.fa.fa-check-circle-o::before {
+        content: url(../images/ico-checked-2.png);
+        vertical-align: middle;
+        display: inline;
+    }

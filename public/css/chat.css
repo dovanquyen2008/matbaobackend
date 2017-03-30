@@ -1,0 +1,368 @@
+﻿
+/*========================*/
+.box-chat {
+    background: #df2f28;
+    width: 285px;
+    min-height: 80px;
+    position: fixed;
+    z-index: 104;
+    right: 10px;
+    bottom: 50px;
+    border-radius: 3px 3px 0 0;
+    box-shadow: 0px 0px 3px #161616;
+    display: none;
+    font-family: Arial;
+}
+
+    .box-chat .title-chat {
+        height: 70px;
+        position: relative;
+        padding: 6px;
+        border-radius: 3px 3px 0 0;
+    }
+
+.title-chat .closeChat {
+    position: absolute;
+    right: 1px;
+    top: 0;
+    cursor: pointer;
+}
+
+.maxChat {
+    position: absolute;
+    right: 18px;
+    top: 0;
+    cursor: pointer;
+}
+
+.title-chat p {
+    margin: 0;
+    color: white;
+    font-size: 12px;    
+}
+
+.content-input-chat {
+    padding: 6px;
+    display: none;
+}
+
+.content-input-name {
+    padding: 6px;
+    border-top: 1px dotted #fff;
+}
+
+    .content-input-name table tr td {
+        color: White;
+    }
+
+.infoChat {
+    height: 20px;
+    margin-bottom: 10px;
+    padding: 4px 6px 4px 10px;
+    line-height: 20px;
+    vertical-align: middle;
+    color: #ffffff;
+    border: none;
+    width: 245px;
+    background: #c82a24;
+}
+
+    .infoChat::-moz-placeholder {
+        color: #ffffff;
+    }
+    .infoChat::-webkit-input-placeholder {
+        color: #ffffff;
+    }
+    .infoChat:-ms-input-placeholder {
+        color: #ffffff;
+    }
+
+.inputChat {
+    width: 212px;
+    height: 46px !important;
+    float: left;
+    margin-right: 5px;
+    color: black;
+}
+
+.sendChat {
+    width: 50px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+    background: url("../images/MatbaoChat/sendChat.PNG") no-repeat;
+    color: #363636;
+    font-weight: bold;
+}
+
+.sendRate {
+    width: 50px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+    background: url("../images/MatbaoChat/sendChat.PNG") no-repeat;
+    color: #363636;
+    font-weight: bold;
+}
+
+.content-input-rate {
+    padding: 6px;
+    display: none;
+}
+
+    .content-input-rate p {
+        font-size:14px !important;
+        color: White;
+        margin: 5px 0;
+    }
+
+.box-chat-container {
+    width: 285px;
+    /*min-height: 100px;*/
+    position: fixed;
+    z-index: 103;
+    right: 10px;
+    background: #df2f28;
+    bottom: -221px;
+}
+.box-list-chat
+ {
+    
+    width: 285px;
+    min-height: 100px;
+    
+    z-index: 103;
+    right: 10px;
+    /*bottom: 50px;*/
+    border-radius: 3px 3px 0 0;
+    /*box-shadow: 0px 0px 3px #161616;*/
+    display: none;
+}
+
+    .box-list-chat ul {
+        margin: 5px;
+        padding: 0;
+        list-style: none;
+    }
+
+        .box-list-chat ul li {
+            color: White;
+            border-bottom: 1px dotted #e68080;
+            padding: 5px 0;
+            float: left;
+            width: 100%;
+            min-height: 14px;
+        }
+
+            .box-list-chat ul li .loadingChat {
+                width: 275px;
+                height: 68px;
+                background: url("../images/MatbaoChat/loading_chat.gif") no-repeat center center;
+                opacity: 0.9;
+            }
+
+            .box-list-chat ul li p {
+                margin: 3px 0;
+                font-size:14px;
+            }
+
+.button-chat {
+    border: none;
+    cursor: pointer;
+    background: #FFF;
+    color: #363636;
+    font-weight: bold;
+    padding: 2px 6px;
+    border-radius: 2px;
+    font-size: 11px;
+    font-family:Arial;
+}
+
+.avatarSale {
+    float: left;
+    margin-right: 5px;
+    border: 2px solid #ffffff;
+    height: 70px;
+    width: 48px;
+}
+
+.title-chat .imgSale {
+    height: 65px;
+    width: 51px;
+}
+
+.box-list-chat .closeChat {
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+}
+
+.hiddenChat {
+    display: none;
+}
+
+.showChat {
+    display: block;
+}
+
+.downApp {
+    background: url("/App_Themes/MatbaoNet/img/downApp.gif") no-repeat left center;
+    margin: 5px;
+    color: #363636;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 13px;
+}
+
+.check-domain-sepa .btngoogleplay {
+    background: url("img/btngoogle.png") left center no-repeat;
+    line-height: 20px;
+    height: 20px;
+}
+
+/*.check-domain-sepa .btniosstore {
+    background: url("img/btnios.png") left center no-repeat;
+    line-height: 20px;
+    height: 20px;
+}*/
+
+.check-domain-sepa .btnwindowsstore {
+    background: url("img/btwindowphone.png") left center no-repeat;
+    line-height: 20px;
+    height: 20px;
+}
+
+.btn-transfer {
+    display: inline-block;
+    padding: 0px 20px;
+    background: url(/App_Themes/MatbaoNet/img/bg-button-focus.png);
+    border-color: #be0e0e #c30c0e #bd0d0f #c20c0b;
+    border-style: solid;
+    border-width: 1px;
+    line-height: 28px;
+    cursor: pointer;
+    color: white;
+    margin: 0;
+    margin-left: 5px;
+}
+
+    .btn-transfer:hover {
+        color: white;
+        text-decoration: underline;
+    }
+
+/*================== Progress ==============*/
+.wrap-send-chat {
+    position: relative;
+}
+
+    .wrap-send-chat img {
+        bottom: 4px;
+        cursor: pointer;
+        position: absolute;
+        right: 61px;
+    }
+
+#dragChat {
+    display: none;
+    color: #92AAB0;
+    text-align: left;
+    vertical-align: middle;
+    margin-bottom: 10px;
+    font-size: 200%;
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 271px;
+    height: 244px;
+    background: transparent;
+    z-index: 102;
+    border: 1px dashed #df2f28;
+    background: rgba(255,255,255,0.7);
+}
+
+    #dragChat img {
+        position: relative;
+        top: 40%;
+        left: 40%;
+        cursor: pointer;
+    }
+
+.progressError {
+    min-height: 20px;
+    padding-bottom: 5px;
+    color: #8f8f8f;
+}
+
+.progressBar {
+    height: 10px;
+    border-radius: 3px;
+    overflow: hidden;
+    margin: 0px 10px 10px 0px;
+    vertical-align: top;
+}
+
+    .progressBar div {
+        height: 100%;
+        color: #8f8f8f;
+        text-align: right;
+        line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+        width: 0;
+        background: url(/App_Themes/MatbaoNet/img/bg-file-chat.gif) repeat-x left center;
+        border-radius: 3px;
+    }
+
+.statusbar {
+    min-height: 25px;
+    width: 275px;
+    padding: 10px 0px 0px 10px;
+    vertical-align: top;
+    position: fixed;
+    bottom: 396px;
+    right: 10px;
+    z-index: 999999;
+    background: #f6f6f6;
+    color: #8f8f8f;
+    box-shadow: 0px 0px 5px #BDBDBD;
+}
+
+.filename {
+    margin-bottom: 5px;
+}
+
+.filesize {
+    display: inline-block;
+    vertical-align: top;
+    color: #FFF;
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.abort {
+    background: url(/App_Themes/MatbaoNet/img/close-file-popup.PNG) no-repeat center center;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    width: 21px;
+    height: 21px;
+}
+
+.count-down-file {
+    position: absolute;
+    right: -1px;
+    top: 11px;
+    width: 21px;
+    height: 21px;
+    color: #df2f28;
+}
+    .review-message {
+        top: -222px;
+        right: 21px;
+        background: #df2f28;
+        width: 285px;
+        /*min-height: 100px;*/
+        z-index: 103;
+        right: 10px;
+    }

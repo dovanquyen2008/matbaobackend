@@ -1,0 +1,311 @@
+﻿.khuyen-mai-black-friday .khuyen-mai-content {
+  background-color: #f9f9f9;
+  background-size: 100%;
+  background: #f9f9f9;
+  font-family: 'Roboto Condensed';
+  padding-bottom: 50px;
+  padding-top: 45px;
+  color: #606060;
+  text-align: center;
+  line-height: 24px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .website-chuyen-nghiep span {
+  font-size: 16px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .website-chuyen-nghiep .bg-white {
+  background-color: #ffffff;
+  margin-bottom: 30px;
+  padding-bottom: 25px;
+  padding: 27px 20px;
+  /*&amp;:hover {
+				box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+			}*/
+}
+.khuyen-mai-black-friday .khuyen-mai-content .website-chuyen-nghiep .title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 0px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .website-chuyen-nghiep li {
+  background: url("../images/check-green-large.png") 0px 0px no-repeat;
+  height: 30px;
+  list-style-type: none;
+  padding-left: 40px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .website-chuyen-nghiep i {
+  margin: 0px 15px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .website-chuyen-nghiep ul {
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 20px;
+  padding-left: 0px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .website-chuyen-nghiep .wrap-img {
+  margin-bottom: 25px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .row-head {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .row-head p {
+  font-size: 18px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .price {
+  color: #ff010b;
+  font-size: 24px !important;
+  font-weight: bold;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .price-old {
+  color: #787878;
+  font-family: 'Roboto Condensed';
+  font-size: 16px;
+  margin-top: -10px;
+  text-decoration: line-through;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .icon-transfer {
+  /*&amp;::after {
+			content: url("../images/arrow-khuyen-mai-tong-hop.png");
+		}*/
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email {
+  text-align: center;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email div {
+  margin-bottom: 20px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email .email .italic {
+  color: gray;
+  font-size: 16px;
+  font-style: italic;
+  margin-top: -10px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email .bg-white {
+  background-color: #ffffff;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  /*&amp;:hover {
+				box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+			}*/
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email .title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email img {
+  margin-bottom: 20px;
+  min-height: 86px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email p {
+  font-size: 16px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email .wrap-key {
+  color: gray;
+  margin-top: 20px;
+  padding: 0px 55px;
+  text-align: center;
+  width: 100%;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email .wrap-key p {
+  border: 1px dashed gray;
+  font-size: 14px;
+  padding: 5px 0px;
+  text-align: center;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .ten-mien-email .wrap-key span {
+  font-weight: bold;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-dang-dien-ra {
+  padding-bottom: 40px;
+  padding-top: 10px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-dang-dien-ra hr {
+  border: 1px dotted gray;
+  float: left;
+  width: 100%;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-dang-dien-ra .row-head {
+  text-align: center;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-dang-dien-ra .title {
+  font-size: 20px !important;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-dang-dien-ra .red {
+  color: #ea1d2c;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-dang-dien-ra p {
+  font-family: 'Open Sans', sans-serif;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-dang-dien-ra .thoi-han {
+  color: gray;
+  font-size: 14px;
+  font-style: italic;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-dang-dien-ra a {
+  color: #ff450c;
+  font-style: italic;
+  text-decoration: underline;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-dang-dien-ra .wrap-img {
+  margin-bottom: 25px;
+  text-align: center;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .mb-list-khuyen-mai div {
+  padding-top: 35px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-luu-y {
+  margin-top: 26px;
+  text-align: center;
+  line-height: 24px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .khuyen-mai-luu-y p {
+  font-size: 14px !important;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .gioi-thieu-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .gioi-thieu-khuyen-mai {
+  margin-top: 30px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .item {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .row-head p {
+  font-family: Roboto Condensed;
+}
+.khuyen-mai-black-friday .khuyen-mai-content img {
+  width: 100%;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .btn-mua-ngay {
+  border: 1px solid black;
+  display: block;
+  font-size: 17px;
+  padding: 12px 20px;
+  text-align: center;
+  width: 170px;
+  margin: auto;
+  margin-top: 20px;
+  text-transform: uppercase;
+}
+.khuyen-mai-black-friday .khuyen-mai-content p {
+  color: #787878;
+  font-size: 18px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .saleoff {
+  color: #787878;
+  font-size: 16px;
+  margin-bottom: -5px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .wrap-price {
+  color: black;
+  font-family: Roboto Condensed;
+  font-size: 24px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .price {
+  color: red;
+  font-weight: bold;
+}
+.khuyen-mai-black-friday .khuyen-mai-content h2 {
+  font-size: 24px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .coupon {
+  color: #363636;
+  font-size: 20px;
+  font-weight: bold;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .count-down-item {
+  height: 84px;
+  width: 84px;
+  border: 3px solid #0b5f3b;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 18px;
+  position: relative;
+  padding-top: 20px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .count-down-item:after {
+  content: ":";
+  display: inline-block;
+  position: absolute;
+  font-weight: bold;
+  font-size: 24px;
+  color: #0b5f3b;
+  right: -17px;
+  top: 26px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .count-down-item:last-of-type:after {
+  display: none;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .count-down-item .count-down-time {
+  font-weight: bold;
+  font-size: 30px;
+  color: #0b5f3b;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .count-down-item .count-down-unit {
+  text-transform: uppercase;
+}
+@media (max-width: 450px) {
+  .khuyen-mai-black-friday .khuyen-mai-content .count-down-item {
+    height: 64px;
+    width: 64px;
+    margin-right: 7px;
+    padding-top: 10px;
+    border-width: 2px;
+    font-size: 14px;
+  }
+  .khuyen-mai-black-friday .khuyen-mai-content .count-down-item:after {
+    font-size: 22px;
+    right: -10px;
+    top: 17px;
+  }
+  .khuyen-mai-black-friday .khuyen-mai-content .count-down-item .count-down-time {
+    font-size: 26px;
+  }
+}
+.khuyen-mai-black-friday .khuyen-mai-content .hoan-tang-table {
+  max-width: 850px;
+  margin: auto;
+  padding-top: 20px;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .hoan-tang-table thead {
+  background-color: #156333;
+  color: #fff;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .hoan-tang-table thead th {
+  border-width: 0 1px 0 0;
+  border-color: #e6e7e8;
+  border-style: solid;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .hoan-tang-table tbody tr:nth-of-type(even) {
+  background-color: #e6e7e8;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .hoan-tang-table tbody tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .hoan-tang-table tbody td {
+  border-width: 0 1px 0 0;
+  border-color: #e6e7e8;
+  border-style: solid;
+}
+.khuyen-mai-black-friday .khuyen-mai-content .hoan-tang-table tbody td:last-of-type {
+  border: none;
+}
+@media (max-width: 370px) {
+  .khuyen-mai-black-friday .khuyen-mai-content .hoan-tang-table th,
+  .khuyen-mai-black-friday .khuyen-mai-content .hoan-tang-table tr {
+    padding: 4px 0;
+    font-size: 12px;
+  }
+}
+/*# sourceMappingURL=KhuyenMaiNew.css.map */

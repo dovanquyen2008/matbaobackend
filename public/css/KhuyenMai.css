@@ -1,0 +1,1358 @@
+﻿.khuyen-mai {
+    color: black;
+    font-family: Roboto Condensed;
+}
+.item-info-org .col-md-6.col-sm-6.col-xs-7 {
+    width: 56%;
+    float: left;
+    text-align: right !important;
+}
+.item-info-org .col-md-6.col-sm-6.col-xs-5.wrap-price-old {
+    width: 25%;
+    float: left;
+    text-align: left;
+}
+    .khuyen-mai .center {
+        text-align: center !important;
+    }
+
+    .khuyen-mai .thong-tin-chung {
+        background: url(../images/KhuyenMai/bg-km-kmt8-red.png) no-repeat;
+        background-size: cover;
+        padding: 40px 0px;
+        color: white;
+        font-family: 'Open Sans';
+        font-size: 16px;
+    }
+
+    .khuyen-mai hr {
+        border-top: 1px dotted black;
+    }
+
+    .khuyen-mai .icon-dau-cong:after {
+        display: inline-block;
+        content: url(../images/KhuyenMai/iconb-km-dau-cong.png);
+        position: absolute;
+        top: 45px;
+        left: 35%;
+    }
+     
+    .khuyen-mai .icon-ten-mien:after {
+        content: url(../images/KhuyenMai/icon-km-ten-mien.png);
+    }
+
+    .khuyen-mai .icon-hosting:after {
+        display: inline-block;
+        content: url(../images/KhuyenMai/icon-km-hosting.png);
+    }
+
+    .khuyen-mai .icon-email:after {
+        display: inline-block;
+        content: url(../images/KhuyenMai/icon-km-email.png);
+    }
+
+    .khuyen-mai .icon-chili:after {
+        display: inline-block;
+        content: url(../images/KhuyenMai/icon-km-chili.png);
+    }
+
+.lading-page .combo-hosting {
+    background: #efefef;
+}
+
+.lading-page .combo-website-doanh-nghiep {
+    background: url(../images/KhuyenMai/bg-km-kmt8-blue.png) no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+}
+
+.lading-page .combo-website-ban-hang {
+    background: #eaeaea;
+    padding-top: 20px;
+}
+
+.lading-page .combo-ten-mien {
+    background: url(../images/KhuyenMai/bg-km-kmt8-blue.png) no-repeat;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+
+.lading-page .wrap-combo {
+    background: #fff;
+    padding: 30px 19px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+}
+
+    .lading-page .wrap-combo h3 {
+        font-size: 18px;
+        margin-top: 30px;
+        margin-bottom: 5px;
+    }
+
+    .lading-page .wrap-combo .item {
+        margin-bottom: 10px;
+    }
+    /*.lading-page .wrap-combo .div-dau-cong{
+   width:5% !important;
+}*/
+    .lading-page .wrap-combo img {
+        width: 100%;
+        margin: auto;
+        max-width: 100px;
+    }
+
+.lading-page .text-title {
+    padding: 10px 8%;
+    text-align: center;
+}
+
+.lading-page .combo-website-doanh-nghiep .text-title,
+.lading-page .combo-website-doanh-nghiep .text-title p,
+.lading-page .combo-ten-mien .text-title,
+.lading-page .combo-ten-mien .text-title p {
+    color: #fff;
+}
+
+.lading-page .text-title h2 {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.lading-page .text-title p {
+    font-family: 'Open Sans';
+    font-weight: normal;
+    font-size: 18px;
+    color: #363636;
+}
+
+.lading-page .wrap-price {
+    font-family: 'Open Sans';
+    font-weight: normal;
+    font-size: 18px;
+    color: #363636;
+    padding-top: 15px;
+}
+
+    .lading-page .wrap-price div:first-child {
+        text-align: right;
+        line-height: 33px;
+    }
+
+    .lading-page .wrap-price div:last-child {
+        text-align: left;
+    }
+
+.lading-page .wrap-combo i {
+    font-family: 'Open Sans';
+    font-weight: normal;
+    font-size: 16px;
+    color: #979797;
+    font-style: normal;
+}
+
+.lading-page .wrap-price .price {
+    font-size: 30px;
+    color: #f20d0d;
+    font-weight: bold;
+}
+
+.lading-page .wrap-price .price-old {
+    text-decoration: line-through;
+}
+
+.lading-page .btn-tu-van {
+    background: #9acf1c;
+    color: #fff;
+    font-size: 16px;
+    font-family: Roboto Condensed;
+    padding: 10px 25px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    max-width: 260px;
+}
+
+
+.khuyen-mai .luu-y-chung li {
+    list-style: none;
+    background: url(../images/KhuyenMai/icon-km-check-v.png) no-repeat left 6px;
+    padding-left: 38px;
+    line-height: 28px;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.lading-page .luu-y-chung li {
+    background: url(../images/KhuyenMai/icon-km-mau-vang.png) no-repeat left 6px;
+    list-style: none;
+    padding-left: 23px;
+    line-height: 28px;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.lading-page .wrap-luu-y-chili,
+.lading-page .luu-y-chung,
+.khuyen-mai .luu-y-chung {
+    padding: 30px 0px;
+}
+
+    .lading-page .wrap-luu-y-chili p,
+    .lading-page .luu-y-chung p,
+    .khuyen-mai .luu-y-chung p {
+        font-size: 36px;
+        font-family: Roboto Condensed;
+        font-weight: bold;
+        color: #363636;
+        text-transform: uppercase;
+    }
+
+    .lading-page .luu-y-chung p {
+        padding-left: 15px;
+    }
+
+    .lading-page .luu-y-chung ul {
+        padding-left: 15px;
+    }
+
+.lading-page .combo-ten-mien a {
+    color: #fff;
+    background: #ffba00;
+    padding: 10px 20px;
+    display: block;
+    width: 120px;
+    margin: auto;
+}
+
+.lading-page .combo-ten-mien .wrap-xem-them {
+    text-align: center;
+}
+
+.lading-page .combo-ten-mien .coupon {
+    border: 1px dashed black;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 30px;
+}
+
+    .lading-page .combo-ten-mien .coupon .key {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+.lading-page .popup input[type=text] {
+    padding: 8px;
+    margin: 5px 0 7px 0;
+    width: 285px;
+    border: 1px solid red;
+}
+
+.lading-page .popup .button {
+    padding: 5px 30px;
+    color: #fff;
+    font-weight: bold;
+    background: red;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.lading-page .textcenter {
+    text-align: center;
+}
+.mb-checkdomain .home-title.main-home-title
+{
+    color:#88C944;
+}
+
+/*Khuyến mãi tổng hợp*/
+.khuyen-mai-tong-hop .item {
+    background: #fff;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.khuyen-mai-tong-hop .row-head p {
+    font-family: Roboto Condensed;
+}
+
+.khuyen-mai-tong-hop img {
+    width: 100%;
+}
+
+.khuyen-mai-tong-hop .btn-can-tu-van {
+    padding: 5px 20px;
+    border: 1px solid black;
+    display: block;
+    width: 117px;
+    text-align: center;
+    font-family: 'Open Sans';
+ 
+}
+
+.khuyen-mai-tong-hop p {
+    font-family: 'Open Sans';
+    font-size: 16px;
+    color: #787878;
+}
+
+.khuyen-mai-tong-hop .saleoff {
+    font-size: 16px;
+    color: #787878;
+    margin-bottom: -5px;
+}
+
+.khuyen-mai-tong-hop .wrap-price {
+    font-family: Roboto Condensed;
+    color: black;
+    font-size: 24px;
+}
+
+.khuyen-mai-tong-hop .price {
+    font-size: 36px !important;
+    color: #ff3c00;
+}
+
+.khuyen-mai-tong-hop h2 {
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+.khuyen-mai-tong-hop .coupon {
+    font-weight: bold;
+    font-size: 20px;
+    color: #363636;
+}
+/**slider*/
+  /* jssor slider bullet navigator skin 05 css */
+                                  /*
+                       .jssorb05 div           (normal)
+                       .jssorb05 div:hover     (normal mouseover)
+                       .jssorb05 .av           (active)
+                       .jssorb05 .av:hover     (active mouseover)
+                       .jssorb05 .dn           (mousedown)
+                       */
+                                  .jssorb05 {
+                                      position: absolute;
+                                  }
+
+                                   .jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
+                                       position: absolute;
+                                       /* size of bullet elment */
+                                       width: 16px;
+                                       height: 16px;
+                                       background: url('../images/KhuyenMai/b05.png') no-repeat;
+                                       overflow: hidden;
+                                       cursor: pointer;
+                                   }
+
+                                      .jssorb05 div {
+                                          background-position: -7px -7px;
+                                      }
+
+                                          .jssorb05 div:hover, .jssorb05 .av:hover {
+                                              background-position: -37px -7px;
+                                          }
+
+                                      .jssorb05 .av {
+                                          background-position: -67px -7px;
+                                      }
+
+                                      .jssorb05 .dn, .jssorb05 .dn:hover {
+                                          background-position: -97px -7px;
+                                      }
+
+                                  /* jssor slider arrow navigator skin 12 css */
+                                  /*
+                       .jssora12l                  (normal)
+                       .jssora12r                  (normal)
+                       .jssora12l:hover            (normal mouseover)
+                       .jssora12r:hover            (normal mouseover)
+                       .jssora12l.jssora12ldn      (mousedown)
+                       .jssora12r.jssora12rdn      (mousedown)
+                       */
+                       .jssora12l, .jssora12r {
+                           display: none;
+                           position: absolute;
+                           /* size of arrow element */
+                           width: 30px;
+                           height: 46px;
+                           cursor: pointer;
+                           background: url('../images/KhuyenMai/a12.png') no-repeat;
+                           overflow: hidden;
+                       }
+
+                                  .jssora12l {
+                                      background-position: -16px -37px;
+                                  }
+
+                                  .jssora12r {
+                                      background-position: -75px -37px;
+                                  }
+
+                                  .jssora12l:hover {
+                                      background-position: -136px -37px;
+                                  }
+
+                                  .jssora12r:hover {
+                                      background-position: -195px -37px;
+                                  }
+
+                                  .jssora12l.jssora12ldn {
+                                      background-position: -256px -37px;
+                                  }
+
+                                  .jssora12r.jssora12rdn {
+                                      background-position: -315px -37px;
+                                  }
+
+/*Trang khuyến mãi tên miền*/
+.khuyen-mai-ten-mien .main-checkdomain {
+    padding-bottom: 15px;
+}
+
+.khuyen-mai-ten-mien .ten-mien-giam-gia {
+    margin-top: 30px;
+}
+
+    .khuyen-mai-ten-mien .ten-mien-giam-gia p:first-child {
+        font-family: 'Open Sans';
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+
+    .khuyen-mai-ten-mien .ten-mien-giam-gia span {
+        font-family: Roboto Condensed;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+        .khuyen-mai-ten-mien .ten-mien-giam-gia span:last-child {
+            font-family: 'Roboto Condensed';
+            font-size: 20px;
+            font-weight: normal;
+            color: #b5b5b5;
+        }
+
+    .khuyen-mai-ten-mien .ten-mien-giam-gia div div {
+        border-right: 1px dotted #cccbcb;
+        line-height: 30px;
+    }
+
+        .khuyen-mai-ten-mien .ten-mien-giam-gia div div:last-child {
+            border-right: none;
+        }
+
+.khuyen-mai-ten-mien .wrap-title-top {
+    text-align: left;
+    padding-top: 60px;
+}
+
+    .khuyen-mai-ten-mien .wrap-title-top p {
+        font-family: Roboto Condensed;
+        font-size: 36px;
+        font-weight: bold;
+        color: #363636;
+        text-transform: uppercase;
+        margin-bottom: 0px;
+    }
+
+    .khuyen-mai-ten-mien .wrap-title-top .top-red {
+        text-transform: none;
+        color: white;
+        padding: 5px 10px;
+        background: #f51010;
+        font-family: Roboto Condensed;
+    }
+
+    .khuyen-mai-ten-mien .wrap-title-top .wrap-coupon {
+        font-family: 'Open Sans';
+        font-size: 18px;
+        color: #363636;
+        text-transform: none;
+        font-weight: normal;
+    }
+
+.khuyen-mai-ten-mien .item-com-net {
+    background: #6fd7f9;
+}
+
+.khuyen-mai-ten-mien .item {
+    text-align: center;
+    padding: 0px 5px;
+    margin-bottom: 29px;
+    float:right;
+    /*width:60%;*/
+
+}
+
+.titleright
+{
+    color:#363636;
+    font-size:19px;
+    padding-top:2px;
+}
+
+    .khuyen-mai-ten-mien .item .price-domain {
+        font-family: 'Open Sans';
+        font-size: 35px;
+    }
+
+        .khuyen-mai-ten-mien .item .price-domain .priceold {
+            text-decoration: line-through;
+        }
+
+    .khuyen-mai-ten-mien .item .wrap-coupon {
+        font-family: 'Open Sans';
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+
+.khuyen-mai-ten-mien .title-domain {
+    font-family: 'Open Sans';
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    text-shadow: 1.5px 0 0 #f51010;
+}
+
+.khuyen-mai-ten-mien .item-com-net .title-domain {
+    color: #fff;
+}
+
+.khuyen-mai-ten-mien .item-com-net .price-domain {
+    color: #0b5491;
+}
+
+.khuyen-mai-ten-mien .item-info-org .title-domain {
+    color: #f51010;
+}
+
+.khuyen-mai-ten-mien .item-info-org .price-domain {
+    color: #363636;
+}
+
+.khuyen-mai-ten-mien .item-info-org {
+    background: #ffe494;
+}
+
+.khuyen-mai-ten-mien .item-email {
+    background: #79AE08;
+}
+
+    .khuyen-mai-ten-mien .item-email .title-domain {
+        color: white;
+    }
+
+    .khuyen-mai-ten-mien .item-email p {
+        color: white;
+    }
+
+.khuyen-mai-ten-mien .support {
+    padding-top: 20px;
+}
+
+    .khuyen-mai-ten-mien .support p {
+        font-family: 'Open Sans';
+        font-size: 14px;
+        color: #808285;
+        font-weight: 300;
+    }
+
+.khuyen-mai-ten-mien .img-lading-page {
+    margin-bottom: 20px;
+}
+
+    .khuyen-mai-ten-mien .img-lading-page a {
+        display: block;
+    }
+
+    .khuyen-mai-ten-mien .img-lading-page img {
+        width: 100%;
+    }
+
+.khuyen-mai .boder-hr {
+    background-image: linear-gradient(to right, #333 10%, rgba(255, 255, 255, 0) 0%);
+    background-position: top;
+    background-size: 6px 1px;
+    background-repeat: repeat-x;
+}
+
+.khuyen-mai-ten-mien .wrap-price-old {
+    text-align: left;
+    font-size: 15px;
+    line-height: 15px;
+    margin-top: 9px;
+}
+
+.slogan-item-tenmien {
+    font-size: 24px;
+    font-family: 'Roboto Condensed';
+    margin-bottom: 0;
+}
+
+.item-dot-xyz {
+    background: #fffce9;
+}
+
+.item-dot-top {
+    background: #fff;
+}
+
+.item-dot-xyz .title-domain {
+    color: #7e00ff;
+    text-shadow: 1.5px 0 0 #7e00ff !important;
+    margin-top: 10px;
+}
+
+.item-com-net .title-domain {
+    text-shadow: 1.5px 0 0 #fff !important;
+}
+
+.item-dot-top .title-domain {
+    color: #ff0000;
+    margin-top: 10px;
+}
+
+.item-dot-xyz .price-domain, .item-dot-top .price-domain {
+    color: #0b5491;
+    margin-bottom: 0;
+}
+    #desktop
+    {
+        display:block;
+    }
+    #mobile
+    {
+        display:none;
+    }
+     .lading-page .textcenter i.chilitagimobile
+     {
+         display:none;
+     }
+         .lading-page .textcenter i.chilitagidesk
+     {
+         display:initial;
+     }
+/* Ipad*/
+@media screen and (max-width: 1199px) {
+    .khuyen-mai-tong-hop p {
+        font-size: 14px;
+    }
+
+    .khuyen-mai-tong-hop h2 {
+        font-size: 21px;
+    }
+
+    .khuyen-mai-tong-hop .item {
+        min-height: 305px;
+    }
+   .item-info-org .col-md-6.col-sm-6.col-xs-7 {
+    width: 59%;
+    float: left;
+    text-align: right !important;
+}
+.item-info-org .col-md-6.col-sm-6.col-xs-5.wrap-price-old {
+    width: 25%;
+    float: left;
+  
+}
+
+@media screen and (max-width: 992px) {
+    .khuyen-mai-ten-mien .wrap-title-top {
+        text-align: left;
+        padding-top: 17px;
+    }
+      .item-info-org .col-md-6.col-sm-6.col-xs-7 {
+    width: 59%;
+    float: left;
+    text-align: right !important;
+}
+    .khuyen-mai-tong-hop p {
+        font-size: 15px;
+    }
+
+    .khuyen-mai-tong-hop h2 {
+        font-size: 24px;
+    }
+
+    .khuyen-mai-tong-hop .item {
+        min-height: 290px;
+    }
+
+    .lading-page .wrap-price div:first-child {
+        text-align: center;
+        font-size: 15px;
+        padding-left: 0px;
+        padding-right: 0px;
+        line-height: 37px;
+    }
+
+    .lading-page .wrap-price .price {
+        font-size: 18px;
+    }
+    .khuyen-mai-ten-mien .item {
+    text-align: center;
+    padding: 0px 5px;
+    margin-bottom: 29px;
+    float:right;
+    width:100%;
+
+}
+    .khuyen-mai-ten-mien .item-info-org .col-sm-6
+    {
+        width:26%;
+    }
+    .col-md-12.col-sm-12.col-xs-12.price-domain
+    {
+        padding-left:0px;
+    }
+}
+
+/*giao diện mobile*/
+@media screen and (max-width: 767px) {
+ .item-info-org .col-md-6.col-sm-6.col-xs-7 {
+    width: 53%;
+    float: left;
+    text-align: right !important;
+}
+    .modal.in .modal-dialog
+    {
+        padding-top:4px !important;
+        z-index:99999;
+        margin-top:50px;
+    }
+    .mobile-tenmien {
+      width: 24%;
+    float: left;
+    border-right: 1px dotted #cccbcb;
+    line-height: 24px;
+    margin: auto;
+    text-align: center;
+}
+        .khuyen-mai-ten-mien .ten-mien-giam-gia
+{
+        margin-top:15px;
+    }
+    .khuyen-mai-ten-mien .ten-mien-giam-gia p:first-child
+    {
+        font-size:24px;
+    }
+    .khuyen-mai-ten-mien .ten-mien-giam-gia span
+    {
+        font-size:16px;
+    }
+    .khuyen-mai-ten-mien .ten-mien-giam-gia span:last-child
+    {
+        font-size:14px;
+    }
+    .khuyen-mai-ten-mien .ten-mien-giam-gia div div
+    {
+        line-height:24px;
+    }
+    .khuyen-mai-ten-mien .title-domain
+    {
+        font-size:40px;
+    }
+    .khuyen-mai-ten-mien .item
+    {
+        padding:0px 5px;
+    }
+    .mb-checkdomain h1.home-title.main-home-title
+    {
+        font-size:34px;
+    }
+    .khuyen-mai .luu-y-chung li
+    {
+        text-align:justify;
+    }
+    .khuyen-mai-ten-mien .item
+    {
+        width:100%;
+    }
+    .col-md-6.col-sm-6.col-xs-7
+    {
+        width:20%;
+        text-align:left !important;
+    }
+    .col-md-4.col-sm-4.col-xs-12.center {
+    width: 33.3333%;
+}
+    button.close
+    {
+            padding: 0px 4px 0px 0px;
+    position: relative;
+    font-size: 30px;
+    font-weight: bold;
+    }
+    #desktop
+    {
+        display:none;
+    }
+    #mobile
+    {
+        display:block;
+    }
+        .searchkm .ten-mien-giam-gia p:first-child {
+        font-family: 'Open Sans';
+        font-size: 26px;
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+
+     .searchkm .ten-mien-giam-gia span {
+        font-family: Roboto Condensed;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+        .searchkm .ten-mien-giam-gia span:last-child {
+            font-family: 'Roboto Condensed';
+            font-size: 16px;
+            font-weight: normal;
+            color: #b5b5b5;
+        }
+
+                     /*.searchkm .ten-mien-giam-gia div  {
+
+        border-right: 1px dotted #cccbcb;
+    line-height: 30px;
+}*/
+               .searchkm .ten-mien-giam-gia div.last{
+        border-right: none;
+    line-height: 24px;
+}
+     #mobile .boxitem
+    {
+        background-color:#fff;
+        margin-bottom:20px;
+        padding-bottom:10px;
+    }
+     .khuyen-mai-tong-hop .coupon
+     {
+         font-size:16px;
+     }
+    .khuyen-mai-tong-hop .price {
+    font-size: 16px !important;
+    color: #ff3c00;
+    font-weight:bold !important;
+}
+     .lading-page .wrap-luu-y-chili p, .lading-page .luu-y-chung p, .khuyen-mai .luu-y-chung p
+    {
+        font-size:30px;
+    }
+    .khuyen-mai-tong-hop .wrap-price {
+    font-family: Roboto Condensed;
+    color: #363636;
+    font-size: 16px;
+}
+       .khuyen-mai-tong-hop h2 {
+        font-size: 24px;
+        line-height:30px;
+    }
+       .khuyen-mai-tong-hop img {
+    width: auto;
+}
+.saleoff {
+    font-size: 14px;
+    color: #CCCCCC;
+    margin-bottom: -5px;
+       text-decoration: line-through;
+}
+span.price
+{
+    color:#FE0002;
+    font-size:14px;
+    font-weight:bold;
+}
+    .khuyen-mai-tong-hop  .title-item
+    {
+          /*background: url('../images/KhuyenMai/bg_title.jpg') bottom center no-repeat;*/
+font-size:20px;
+height:35px;
+padding-bottom:15px;
+    border-bottom: 2px dotted #ccc;
+    font-weight:bold;
+    }
+  .khuyen-mai-tong-hop .btn-can-tu-van {
+   height:48px;
+   border: 1px solid #B8B8B8;
+   display: block;
+   width: 117px;
+   text-align: center;
+   font-family: 'Open Sans';
+   background-color:transparent;
+   width:100%;
+   color:#353535;
+   font-size:18px;
+   vertical-align:middle;
+   margin-top: 15px;
+   padding: 10px;
+
+}
+  .khuyen-mai-tong-hop .btn-can-tu-van:hover
+    {
+           background-color:#FF4342;
+              height:48px;
+   border: 1px solid #FF4342;
+   color:#fff;
+    }
+   .khuyen-mai-tong-hop .coupon
+    {
+        font-weight:bold;
+    }
+     .tenmienkm{
+             width: 33.33333333%;
+    float:left;
+          border-right: 1px dotted #cccbcb;
+    line-height: 24px;
+    margin:auto;
+    text-align:center;
+  }
+     /*.tenmienkm {
+    width: 86px;
+    float: left;
+    border-right: 1px dotted #cccbcb;
+    line-height: 30px;
+}*/
+     /*.main-checkdomain .jcarousel li {
+    border-left: none;
+
+    width: 12.5%;
+    padding: 0px;
+}*/
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9
+{
+    position:inherit !Important;
+}
+      #mobile   .col-md-4 {
+    width: 33.33333333%;
+  }
+    .search-domain-home-green
+    {
+        background-image: url(../images/bg_search.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .main-checkdomain .input-group-lg > .matbao-textbox
+    {
+        min-height:50px;
+    }
+    .main-home-title
+    {
+        color:#363636;
+    }
+    .khuyen-mai .icon-dau-cong:after {
+        position: inherit;
+    }
+
+    .lading-page .btn-tu-van {
+        margin: auto;
+        width: 100%;
+    }
+
+    .lading-page .wrap-price div:first-child {
+        text-align: center;
+        font-size: 14px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+        .lading-page .wrap-price div:first-child .price {
+            font-size: 18px;
+        }
+
+    .khuyen-mai-ten-mien .ten-mien-giam-gia div div {
+        border-right: none;
+    }
+
+    .khuyen-mai-ten-mien .wrap-title-top {
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .lading-page .wrap-price div:first-child {
+        line-height: 23px;
+        margin-bottom: 14px;
+    }
+
+    .khuyen-mai-ten-mien .item .price-domain {
+        font-size: 26px;
+        padding:0px;
+    }
+
+    .khuyen-mai-tong-hop .item {
+        min-height: inherit;
+           text-align: left;
+    padding: 0px 0;
+    margin-bottom: 0px;
+    float:right;
+    width:76%;
+    }
+
+    .khuyen-mai-ten-mien .wrap-price-old {
+        margin-top: 5px;
+    }
+    p.titleright
+    {
+        color:#363636;
+        font-size:15px;
+        padding-top:6px;
+    }
+    .khuyen-mai-tong-hop .saleoff
+    {
+            font-family: Roboto Condensed;
+            font-size:16px;
+        color:#ccc;
+    }
+    .khuyen-mai-tong-hop .price-old
+    {
+          font-family: Roboto Condensed;
+            font-size:16px;
+        color:#ccc;
+    }
+      .main-checkdomain .visible-xs-block .jcarousel {
+    padding: 0;
+}
+     .main-checkdomain .jcarousel li {
+    border-left: none;
+    width: 262px !important;
+    padding: 0px;
+}
+     /*combo*/
+   .lading-page .textcenter i.chilitagimobile
+     {
+         display:initial;
+     }
+         .lading-page .textcenter i.chilitagidesk
+     {
+         display:none;
+     }
+     .lading-page .textcenter {
+    text-align: center;
+    /* color: black; */
+    /*display: table-cell;*/
+    vertical-align: middle;
+    /*min-height: 44px;*/
+ /*width:30%;*/
+ margin:auto;
+}
+     .khuyen-mai .icon-dau-cong:after
+     {
+         transform: scale(.9);
+     }
+     .lading-page .wrap-combo .item
+     {
+         width:30%;
+         float:left;
+         padding-right:0px;
+     }
+     .lading-page .text-title h2 {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+     .lading-page .wrap-combo img {
+    width: 100%;
+    margin: auto;
+    max-width: 100px;
+}
+      .lading-page .wrap-combo .div-dau-cong{
+    width: 2% !important;
+    float: left;
+    padding-top: 33px;
+    padding-left: 0px;
+}
+           .lading-page .wrap-combo .div-dau-cong-two{
+    width: 2% !important;
+    float: left;
+    padding-top: 33px;
+    padding-left: 0px;
+}
+     .col-md-12.col-sm-12.boder-hr
+     {
+         clear:both;
+     }
+     .lading-page .text-title p
+     {
+         display:none;
+     }
+     .lading-page .wrap-combo h3
+     {
+         display:none;
+     }
+      .lading-page .wrap-combo .textcenter i
+     {
+      font-weight:bold;
+      color:#363636;
+     }
+     .lading-page .wrap-combo  .textcenter i:first-child
+     {
+         display:none;
+     }
+        .lading-page .wrap-combo .textcenter i:last-child
+     {
+         display:none;
+     }
+          .lading-page .wrap-combo .two-item
+     {
+         width:47%;
+         float:left;
+         padding-right:0px;
+     }
+          .lading-page .two-item .textcenter
+          {
+              padding:5px 0px;
+          }
+          .lading-page .wrap-combo i
+          {
+              font-family:inherit;
+          }
+          .lading-page .wrap-price div:first-child {
+    text-align: center;
+    font-size: 16px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+          .banner .container 
+          {
+              width:100%;
+              padding-left:0px;
+              padding-right:0px;
+          }
+     /*endcombo*/
+}
+@media screen and (max-width: 667px)
+{
+      .col-md-6.col-sm-6.col-xs-7
+    {
+        width:24%;
+        text-align:left !important;
+    }
+}
+@media screen and (max-width: 589px) {
+
+     .col-md-6.col-sm-6.col-xs-7
+    {
+        width:30%;
+        text-align:left !important;
+    }
+    .khuyen-mai-tong-hop .saleoff
+    {
+            font-family: Roboto Condensed;
+            font-size:14px;
+        color:#ccc;
+    }
+    .khuyen-mai-tong-hop .price-old
+    {
+          font-family: Roboto Condensed;
+            font-size:14px;
+        color:#ccc;
+    }
+    .lading-page .wrap-luu-y-chili p, .lading-page .luu-y-chung p, .khuyen-mai .luu-y-chung p
+    {
+        font-size:30px;
+    }
+}
+@media screen and (max-width:480px)
+{
+    .item-info-org .col-md-6.col-sm-6.col-xs-7 {
+    width: 59%;
+    float: left;
+    text-align: right !important;
+}
+   
+     .col-md-4.col-sm-4.col-xs-12.center {
+    width: 100%;
+}
+     .khuyen-mai-tong-hop .item {
+        min-height: inherit;
+           text-align: left;
+    padding: 0px 0;
+    margin-bottom: 0px;
+    float:right;
+    width:70%;
+    }
+     .lading-page .text-title h2 {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+     .lading-page .wrap-luu-y-chili p,
+    .lading-page .luu-y-chung p,
+    .khuyen-mai .luu-y-chung p {
+        font-size: 20px;
+        font-family: Roboto Condensed;
+        font-weight: bold;
+        color: #363636;
+        text-transform: uppercase;
+    }
+      .khuyen-mai .icon-dau-cong:after
+     {
+         transform: scale(.5);
+     }
+      .lading-page .wrap-combo .item {
+    width: 29%;
+    float: left;
+    padding-right: 0px;
+}
+      .lading-page .wrap-combo .div-dau-cong {
+    width: 2% !important;
+    float: left;
+    padding-top: 10px;
+    padding-left: 0px;
+    margin:0px;
+}
+        .lading-page .wrap-combo .div-dau-cong-two{
+    width: 2% !important;
+    float: left;
+    padding-top: 10px;
+    padding-left: 0px;
+
+}
+          .lading-page .wrap-combo img {
+    width: 100%;
+    margin: auto;
+    max-width: 70px;
+}
+
+}
+@media screen and (max-width: 414px) {
+       .main-checkdomain .input-group-lg > .matbao-textbox {
+    
+        padding-left: 8px;
+    }
+    .khuyen-mai-tong-hop .item {
+        min-height: inherit;
+        text-align: left;
+        padding: 0px 0;
+        margin-bottom: 0px;
+        float: right;
+        width: 60%;
+    }
+    .lading-page .wrap-combo .div-dau-cong {
+    width: 2% !important;
+    float: left;
+    padding-top: 20px;
+    padding-left: 0px;
+    margin: 0px;
+}
+              .lading-page .wrap-combo .div-dau-cong-two {
+    width: 2% !important;
+    float: left;
+    padding-top: 20px;
+    padding-left: 0px;
+}
+              .col-md-6.col-sm-6.col-xs-7 {
+    width: 43%;
+    text-align: left !important;
+}
+}
+@media screen and (max-width:360px) {
+    .col-md-6.col-sm-6.col-xs-7 {
+        width: 45%;
+        text-align: left !important;
+    }
+}
+@media screen and (max-width:320px)
+{
+    .col-md-6.col-sm-6.col-xs-7 {
+    width: 51%;
+    text-align: left !important;
+}
+    .lading-page .wrap-combo .div-dau-cong {
+    width: 2% !important;
+    float: left;
+    padding-top: 10px;
+    padding-left: 0px;
+    margin: 0px;
+}
+    .lading-page .wrap-combo .div-dau-cong-two {
+    width: 2% !important;
+    float: left;
+    padding-top: 10px;
+    padding-left: 0px;
+}
+    .lading-page .wrap-combo .textcenter i {
+    font-weight: bold;
+    font-size: 12px;
+    color: #363636;
+}
+     .khuyen-mai-tong-hop .item {
+        min-height: inherit;
+           text-align: left;
+    padding: 0px 0;
+    margin-bottom: 0px;
+    float:right;
+    width:55%;
+    }
+     .main-checkdomain .visible-xs-block .jcarousel {
+    padding: 0;
+}
+     .main-checkdomain .jcarousel li {
+    border-left: none;
+    width: 262px !important;
+    padding: 0px;
+}
+     .lading-page .wrap-price div:first-child {
+    text-align: center;
+    font-size: 14px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+     .lading-page .wrap-price .price-old {
+    text-decoration: line-through;
+    font-size: 14px;
+}
+     .lading-page .btn-tu-van {
+    background: #9acf1c;
+    color: #fff;
+    font-size: 15px;
+    font-family: Roboto Condensed;
+    padding: 10px 25px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    max-width: 260px;
+}
+     .lading-page .text-title h2 
+     {
+         font-size:17px;
+     }
+     .lading-page .wrap-combo .two-item {
+    width: 45%;
+    float: left;
+    padding-right: 0px;
+    text-align: center;
+}
+    .lading-page .wrap-combo img {
+    width: 100%;
+    margin: auto;
+    max-width: 50px;
+}
+    .lading-page .wrap-combo .item
+    {
+        padding-left:10px;
+    }
+    .lading-page .wrap-combo {
+    background: #fff;
+    padding: 30px 0px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+}
+}
